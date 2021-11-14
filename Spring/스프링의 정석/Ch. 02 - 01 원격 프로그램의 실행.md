@@ -45,5 +45,13 @@ public class PrivateMethodCall {
 	}
 }
 ```
-
 Java Application으로 실행
+
+<br><br>
+---
+
+> [스프링의 정석] 강의를 듣고 이해한 내용을 스스로 정리한 것입니다.
+> 
+> 
+> [스프링의 정석 : 남궁성과 끝까지 간다 | 패스트캠퍼스](https://fastcampus.co.kr/dev_academy_nks)
+>
