@@ -1,6 +1,3 @@
-## 🔎 파이썬
-
-```python
 def first(array, target, start, end):
     if start > end:
         return None
@@ -38,4 +35,3 @@ if first == None or last == None:
     print(-1)
 else:
     print(last - first + 1)
-```
