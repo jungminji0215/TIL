@@ -1,6 +1,3 @@
-## 🔎 파이썬
-
-```python
 def solution(answers):
     score = []
     winner = []
@@ -23,4 +20,3 @@ def solution(answers):
             winner.append(i+1)
             
     return winner
-```
