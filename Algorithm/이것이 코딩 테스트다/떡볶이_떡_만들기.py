@@ -1,6 +1,3 @@
-## 🔎 파이썬
-
-```python
 def binary_search(start, end, target, array):
     while start <= end:
         hight_sum = 0
@@ -24,4 +21,3 @@ H_list = list(map(int,input().split()))
 end = max(H_list)
 
 print(binary_search(0, end, M, H_list))
-```
