@@ -1,8 +1,5 @@
-# 자바의 정석 기초 6 - 4 
+// 자바의 정석 기초 6 - 4 
 
-## ✅ 나의 풀이
-
-```java
 public class Exercise6_4 {
 
 	static double getDistance(int x, int y, int x1, int y1) {
@@ -16,15 +13,10 @@ public class Exercise6_4 {
 		System.out.println(getDistance(1, 1, 2, 2));
 	}
 }
-```
 
-거리 구하기 공식만 알면 어렵지 않은 문제였다.
-
-<br>
-
-## ✅ 해설
-
+/*
 Math 클래스에서 알아두면 좋은 함수
 
 - sqrt(souble a) 👉 제곱근 계산
 - pow(double a, double b) 👉 제곱 함수
+*/

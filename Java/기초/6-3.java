@@ -1,8 +1,5 @@
-# 자바의 정석 기초 6 - 3
+// 자바의 정석 기초 6 - 3
 
-## ✅ 나의 풀이
-
-```java
 public class Exercise6_3 {
     public static void main(String[] args){
         Student s = new Student();
@@ -39,13 +36,8 @@ class Student {
     }
 }
 
-```
 
-<br>
-
-## ✅ 해설
-
-```java
+/*
 package Chapter6;
 
 public class Exercise6_3 {
@@ -92,15 +84,12 @@ class Student {
         return (int)(getTotal() / 3f * 10 + 0.5f) / 10f;
     }
 }
-```
+*/
 
-해설은 생성자 두 개 모두 만들어 주었다. 그리고 getTotal 메서드를 더 간단하게 작성하였다.
 
-<br>
+/*
+소수 둘째자리에서 반올림
 
-### 소수 둘째자리에서 반올림
-
-```java
 236 / 3 → 78
 236 / 3f → 78.666664
 236 / 3f * 10 → 786.66664
@@ -108,6 +97,4 @@ class Student {
 (int)(236 / 3f * 10 + 0.5) → (int)787.16664 → 787
 (int)(236 / 3f * 10 + 0.5) / 10 → 78
 (int)(236 / 3f * 10 + 0.5) / 10f → 78.7
-```
-
-소수 둘째 자리에서 반올림하는 코드를 생각해내지 못했다. 해설을 참고하였는데 과정을 잘 배워야겠다.
+*/
