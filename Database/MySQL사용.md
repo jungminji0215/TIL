@@ -51,3 +51,34 @@ USE opentutorials;
 ```
 
 위의 명령문을 실행하면 MySQL은 지금부터 내가 쓰는 명령문을 opentutorials라는 스키마에 있는 표를 대상으로 명령을 실행하게 된다.
+
+<br>
+
+ ## ✅ 기타
+
+### 데이터베이스 확인
+
+```shell
+SHOW DATABASES;
+```
+
+![image-20211126043716060](img/MySQL사용/image-20211126043716060.png)
+
+<br>
+
+### 데이터베이스 삭제
+
+```shell
+DROP DATABASE [데이터베이스 이름];
+```
+
+<br>
+
+```shell
+DROP DATABASE opentutorials;
+```
+
+
+
+
+

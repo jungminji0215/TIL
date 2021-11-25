@@ -1,6 +1,8 @@
-# MySQL
+# MySQL 이란?
 
-MySQL은 관계형 데이터 베이스이다. 
+MySQL은 관계형 데이터베이스를 관리하는 시스템이다.
+
+RDBMS(Relational Database Management System)
 
 <br>
 
