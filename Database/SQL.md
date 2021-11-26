@@ -35,7 +35,7 @@ CREATE TABLE topic(
     PRIMARY KEY(id));
 ```
 
-id INT(11) 👉  숫자 검색 같은 것 할 때 얼마까지만 노출할 것이냐를 정하는 것 
+id INT(11) 👉  숫자 검색 같은 것 할 때 얼마까지만 노출할 것이냐를 정하는 것  
 
 <br>
 
