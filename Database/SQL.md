@@ -37,3 +37,17 @@ CREATE TABLE topic(
 
 id INT(11) 👉  숫자 검색 같은 것 할 때 얼마까지만 노출할 것이냐를 정하는 것 
 
+<br>
+
+### 테이블 정보 보기
+
+```mysql
+desc [테이블 이름];
+```
+
+```mysql
+desc topic;
+```
+
+![image-20211126071038049](img/SQL/image-20211126071038049.png)
+
