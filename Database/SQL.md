@@ -41,3 +41,12 @@ desc topic;
 
 ![image-20211126071038049](img/SQL/image-20211126071038049.png)
 
+<br>
+
+### 사용 중인 데이터베이스의 테이블 목록 보기
+
+```mysql
+show tables;
+```
+
+![image-20211128124530643](img/SQL/image-20211128124530643.png)
