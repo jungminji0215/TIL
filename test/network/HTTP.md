@@ -74,8 +74,3 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 ![image-20211202162944066](C:\Users\jmj\AppData\Roaming\Typora\typora-user-images\image-20211202162944066.png)
 
 
-
-
-
-
-
