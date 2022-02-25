@@ -1,3 +1,4 @@
+```java
 public class DIEX01 {
     public static void main(String[] args) {
         
@@ -17,3 +18,5 @@ public class DIEX01 {
 class Member{
     String name;
 }
+```
+스프링 DI 간단한 예시를 학습해 보았다.
